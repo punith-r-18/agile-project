@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.employee.EvaluationTest
+Test set: com.discount.DiscountCalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in com.employee.EvaluationTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.075 s - in com.discount.DiscountCalculatorTest
